@@ -1,5 +1,5 @@
 import express from "express";
-import Controller from "./interfaces/controlle.interface";
+import Controller from "./interfaces/controller.interface";
 import errorMiddleware from "./middleware/error.middleware";
 import loggerMiddleware from "./middleware/logger.middleware";
 
